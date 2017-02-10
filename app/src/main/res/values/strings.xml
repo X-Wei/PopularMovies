@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="API_KEY">WVRKbU5tVmhORGMzTUdRNU5EWTVaREppWm1Rek16YzBNREZoTVdVNE9EQUsK</string>
+    <string name="action_bypopular">Sort by popularity</string>
+    <string name="action_byrate">Sort by rate</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+</resources>
